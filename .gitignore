@@ -1,0 +1,5 @@
+*.springBeans
+design-pattern-yuan/.settings/org.eclipse.m2e.core.prefs
+*.prefs
+design-pattern-yuan/.project
+*.classpath
